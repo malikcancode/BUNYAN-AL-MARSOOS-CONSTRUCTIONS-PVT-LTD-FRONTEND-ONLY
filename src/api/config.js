@@ -5,7 +5,8 @@ import axios from "axios";
 // ============================================
 
 // Production URL
-const API_URL = "https://cms-backend-production-63bd.up.railway.app/api";
+const API_URL =
+  "https://bunyan-al-marsoos-backend-bunyan-al-marsoos.up.railway.app/api";
 
 // ============================================
 
